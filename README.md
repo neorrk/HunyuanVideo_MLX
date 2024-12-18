@@ -14,7 +14,7 @@ This project makes HunyuanVideo accessible on Apple Silicon Macs by:
 
 ```bash
 # One-line setup
-/install_mlx.sh
+./install_mlx.sh
 
 # Download model weights (requires Hugging Face token)
 python download_weights.py
